@@ -1,4 +1,4 @@
-## The current version of this app does not work because I was trying to configure it to work with Docker and automatically install the correct versions of Chromedriver and run on it. The reason I uploaded it is for demonstration purposes
+## This app is currently being configured to run Docker so it will automatically install the correct versions of Chromedriver with minimal technical knowledge required from the user
 
 ![alt text](https://github.com/kurikurichan/neopets_dailies/blob/main/aisha.png?raw=true)
 
